@@ -1,4 +1,4 @@
 My awesome attributes
-*I am super cool*
-**I am also super amazing**
-_I am cool **and* amazing_
+2. *I am super cool*
+3. **I am also super amazing**
+*I am cool **and* amazing*
