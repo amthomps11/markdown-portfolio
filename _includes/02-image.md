@@ -1,1 +1,1 @@
-![Image of penguin](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKIWgaiJUtss/v2/150x-1.jpg)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
